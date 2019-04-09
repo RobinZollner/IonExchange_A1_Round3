@@ -16,6 +16,8 @@ In the code given, raw data is referenced in folder named '01_Text_Files'
 	- No analysis is performed on this\
 
 **Files Collected on Lab Day 2:**
+
+
 |     File Name    |      Conditions      | Curve Type             | Used in Analysis? |
 |------------------|----------------------|------------------------|-------------------|
 | Run_1_FR_3_A.txt | Flowrate = 8.03 mL/s | Breakthrough Curve     | yes               |
