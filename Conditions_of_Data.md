@@ -105,4 +105,3 @@ In the code given, raw data is referenced in folder named '01_Text_Files'
 |                 |                      | -Regeneration           |                   |
 |                 |    [H2SO4] = 0.4M    |                         |                   |
 |                 |    [CuSO4] = 0.5M    |                         |                   |
-+-----------------+----------------------+-------------------------+-------------------+
