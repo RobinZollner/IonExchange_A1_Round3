@@ -107,3 +107,14 @@ In the code given, raw data is referenced in folder named '01_Text_Files'
 |                 |                      | -Regeneration           |                   |
 |                 |    [H2SO4] = 0.4M    |                         |                   |
 |                 |    [CuSO4] = 0.5M    |                         |                   |
+
+
+
+
+
+|    File Name    |                             Conditions                             | Curve Type                                             | Used in Analysis? |
+|:---------------:|:------------------------------------------------------------------:|--------------------------------------------------------|-------------------|
+| Run5_FR_3_A.txt | Flowrate = 8.03 mL/s Pump Angle = 3  [H2SO4] = 0.4M [CuSO4] = 0.5M | - Breakthrough   - Ideal Case  - Regeneration          | Breakthrough      |
+| Run5_FR_3_B.txt |  Flowrate = 8.03 mL/s Pump Angle = 3 [H2SO4] = 0.4M [CuSO4] = 0.5M | - Breakthrough    -After 1 regeneration  -Regeneration | Breakthrough      |
+| Run6_FR_9_A.txt |  Flowrate = 21 mL/s Pump Angle = 9   [H2SO4] = 0.4M [CuSO4] = 0.5M | -Breakthrough    - ideal -Regeneration                 | Breakthrough      |
+| Run6_FR_9_B.txt |  Flowrate = 21 mL/s Pump Angle = 9  [H2SO4] = 0.4M [CuSO4] = 0.5M  | -Breakthrough   - After regeneration -Regeneration     | Breakthrough      |
