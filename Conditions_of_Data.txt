@@ -7,6 +7,7 @@ ooooooooo.                             .o8       ooo        ooooo
 o888o  o888o `Y8bod8P' `Y888""8o `Y8bod88P"      o8o        o888o `Y8bod8P' 
                                                                             
 Group A1 -- Ion Exchange Round 3
+---
 
 In the code given, raw data is referenced in folder named '01_Text_Files'
 
@@ -15,25 +16,24 @@ In the code given, raw data is referenced in folder named '01_Text_Files'
 	- No analysis is performed on this\
 
 **Files Collected on Lab Day 2:**
-+------------------+----------------------+------------------------+-------------------+
 |     File Name    |      Conditions      | Curve Type             | Used in Analysis? |
-+------------------+----------------------+------------------------+-------------------+
+|------------------|----------------------|------------------------|-------------------|
 | Run_1_FR_3_A.txt | Flowrate = 8.03 mL/s | Breakthrough Curve     | yes               |
 |                  |    Pump Angle = 3    | - Ideal Case           |                   |
 |                  |    [H2SO4]< 0.4 M    |                        |                   |
 |                  |    [CuSO4] = 0.5 M   |                        |                   |
-+------------------+----------------------+------------------------+-------------------+
+|------------------|----------------------|------------------------|-------------------|
 | Run_1_FR_3_B.txt | Flowrate = 8.03 mL/s | Regeneration Curve     | no                |
 |                  |    Pump Angle = 3    |                        |                   | 
 |                  |    [H2SO4]< 0.4 M    |                        |                   |
 |                  |    [CuSO4] = 0.5 M   |                        |                   |
-+------------------+----------------------+------------------------+-------------------+
+|------------------|----------------------|------------------------|-------------------|
 | Run_1_FR_3_C.txt | Flowrate = 8.03 mL/s | It is all zero         | no                |
 |                  |    Pump Angle = 3    | We were still figuring |                   |
 |                  |     [H2SO4]<0.4M     | out when it made sense |                   |
 |                  |     [CuSO4] = 0.5M   | to record information  |                   |
 |                  |                      |                        |                   |
-+------------------+----------------------+------------------------+-------------------+
+|------------------|----------------------|------------------------|-------------------|
 | Run_2_FR_3_A.txt | Flowrate = 8.03 mL/s | Breakthrough           | Only the first    |
 |                  |     Pump Angle = 3   |  -Not Ideal            | breakthrough      |
 |                  |     [H2SO4]<0.4M     |    (after Regen)       | curve             |
@@ -41,20 +41,20 @@ In the code given, raw data is referenced in folder named '01_Text_Files'
 |                  |                      | breakthrough           |                   |
 |                  |                      |                        |                   |
 |                  |                      |                        |                   |
-+------------------+----------------------+------------------------+-------------------+
+|------------------|----------------------|------------------------|-------------------|
 
 
 
 **Files Collected on Day 3**
-+------------------+----------------------+-------------------------+-------------------+
+|------------------|----------------------|-------------------------|-------------------|
 |     File Name    |      Conditions      | Curve Type              | Used in Analysis? |
-+------------------+----------------------+-------------------------+-------------------+
+|------------------|----------------------|-------------------------|-------------------|
 | Run_3_FR_9_A.txt | Flowrate = 21.2 mL/s | - Breakthrough          | Breakthrough      |
 |                  |    Pump Angle = 9    |   - Ideal Case          |                   |
 |                  |                      |                         |                   |
 |                  |    [H2SO4] = 0.4M    | - Regeneration          |                   |
 |                  |    [CuSO4] = 0.5M    |                         |                   |
-+------------------+----------------------+-------------------------+-------------------+
+|------------------|----------------------+-------------------------+-------------------+
 | Run_3_FR_9_B.txt | Flowrate = 21.2 mL/s | - Breakthrough          | Breakthrough      |
 |                  |    Pump Angle = 9    |                         |                   |
 |                  |                      |   -After 1 regeneration |                   |
